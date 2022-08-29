@@ -10,75 +10,84 @@ typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
   ".digitalhouse",
-  `Atualmente trabalho como professor conteudista em frontend na
-  Digital House, o trabalho consiste em criar conteúdos para as
-  aulas de especialização frontend. Alguns temas dos conteúdos
-  realizados foram: React, Redux, TypeScript, Testes,
-  GraphQL, Next.js, MUI, React Hook Form e styled-components.`,
+  `Currently I work as a frontend content teacher at Digital House,
+  the work consists of creating content for frontend specialization classes.
+  Some themes of the contents were:
+  React, Redux, TypeScript, Tests, GraphQL, Next.js, MUI, React Hook Form and styled-components.`,
   "Professor conteudista em Frontend",
-  "Digital House",
-  "Nov 2021 - Atual"
+  "Content teacher at Frontend",
+  "Nov 2021 - Current"
 );
 
 hoverChangeExperience(
-  ".zuplae",
-  `Trabalhei como Social Media e Designer na Zuplae que é um escola
-  de programação, onde teve como foco as criações de conteúdos sobre
-  programação para a comunidade dev através das redes sociais.`,
-  "Social Media e UI Designer",
-  "Zuplae",
-  "Jan 2022 - Abril 2022"
+  ".blueprint",
+  `I structured several internal systems comprising production
+  workflow tracking, as well as design and develop custom REST
+  APIs and Prisma schemas using Ruby on Rails. I resolved 400+ critical bugs in RoR project to improve
+  performance and helped customers launch a seamless
+  experience. Translating designs into high-quality code (Had the task of
+  turning designs into quality code that makes applications work
+  effectively with RoR, React.js, Angular.js, Next.js, Nuxt.js).
+  Collaborating with team members to improve usability. Provided MVP versions of software using Figma, React, Typescript and Storybook.`,
+  "Senior Full-Stack Developer",
+  "iTBlueprint Solutions",
+  "Apr 2020 - Sep 2021"
 );
 
 hoverChangeExperience(
-  ".codigofontetv",
-  `Trabalhei como Social Media e Designer no Código Fonte TV, 
-  onde teve como foco as criações de conteúdos sobre programação 
-  para a comunidade dev através das redes sociais do CDF.`,
-  "Social Media e Designer",
-  "Código Fonte TV",
-  "Jun 2021 - Jan 2022"
+  ".synditech",
+  `I conducted over 100 successful testings to identify bugs that
+  resulted in over 300 UI improvements. I was responsible for developing mobile responsive web
+  applications using React.js, JavaScript/TypeScript, HTML5, CSS3. Refactored a frontend application by introducing Material-UI
+  components and reengineering the complete architecture to
+  make the code readable, scalable, and optimized for specific
+  usage. Daily maintenance of code, debugging issues, and solving
+  clients’ problems. Collaborated with the UX/UI design teams to improve the
+  website and applications.`,
+  "Junior Frontend Engineer",
+  "Synditech Solutions",
+  "Jan 2019 - Dec 2019"
 );
 
 hoverChangeExperience(
   ".contweb",
-  `Realizei o estágio na ContWeb, uma empresa de contabilidade. 
-  Onde pela primeira vez tive experiência com o React. Além do
-  desenvolvimento frontend criei os designs da nova plataforma da empresa.`,
+  `I did the internship at ContWeb, an accounting company.
+  Where I first had experience with React.
+  In addition to the frontend development, I created several components for the company's new platform.`,
   "Developer frontend e UI Designer",
   "ContWeb",
-  "Set 2021 - Nov 2021"
+  "Jan 2017 - Nov 2018"
 );
 
 hoverChangeDescription(
   ".html",
-  "HTML é uma linguagem baseada em marcação, onde marcamos os elementos para definir quais informações a página vai exibir."
+  "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser."
 );
 hoverChangeDescription(
   ".css",
-  "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML."
+  "CSS describes how HTML elements are to be displayed on screen, paper and in other media."
 );
 hoverChangeDescription(
   ".js",
-  "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma."
+  "JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, etc."
 );
 hoverChangeDescription(
   ".sass",
-  "Sass (pré-processador css) é uma linguagem de folhas de estilo. É uma simples linguagem de script usada em arquivos Sass."
+  "Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets."
 );
 hoverChangeDescription(
   ".react",
-  "ReactJS é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web."
+  "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components."
 );
 hoverChangeDescription(
   ".next",
-  "Next.js é uma estrutura da web que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para web baseados em React."
+  "Next.js is an open-source web development framework created by Vercel enabling React-based web applications with server-side rendering and generating static websites."
 );
 hoverChangeDescription(
   ".styled",
-  "Styled Components é uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript."
+  "Styled-components is a popular library that is used to style React applications. It allows you to build custom components by writing actual CSS in your JavaScript."
 );
 hoverChangeDescription(
   ".tailwind",
-  "Tailwind CSS é um framework desenvolvido para maximizar o potencial do bom e velho CSS e levá-lo ainda mais longe."
+  "Tailwind CSS is an open-source utility-first CSS framework."
 );
